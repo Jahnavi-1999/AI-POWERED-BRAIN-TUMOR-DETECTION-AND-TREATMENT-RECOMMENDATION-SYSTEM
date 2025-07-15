@@ -36,8 +36,5 @@ This is a deep learning-based platform for accurate brain tumor detection and cl
 4. Grad-CAM highlights the critical regions used by the model for decision-making.
 5. A PDF report is generated with results, visual explanation, and patient information.
 
----
 
-**For inquiries or collaborations, contact:**
-**[ashrithsambaraju@gmail.com](mailto:ashrithsambaraju@gmail.com)**
 

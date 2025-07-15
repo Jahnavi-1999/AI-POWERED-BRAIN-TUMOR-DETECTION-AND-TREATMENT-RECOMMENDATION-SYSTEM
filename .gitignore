@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Large files and binaries
+*.h5
+*.pyd
+*.dll
+*.pb
+*.ckpt
+*.tflite
+*.zip
+*.tar
+*.egg-info/
